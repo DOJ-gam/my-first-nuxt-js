@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!-- Layout -->
     <AppHeader/>
     <Nuxt/>
     <AppFooter/>
